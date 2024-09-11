@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Senior Manager/Architect @ GranManibus株式会社 in Tokyo🗼
+🔭 I’m a Senior Manager/Architect @ GranManibus株式会社 in Tokyo🗼  
 🌱 I’m learning Cloudformation  
 💬 Ask me about life/working in Japan  
 ⚡ Fun fact: I can overhead press my wife  
